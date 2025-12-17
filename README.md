@@ -1,14 +1,16 @@
-# Prazer João Dias
+# João Dias
 
-Desenvolvedor backend focado em entregar o que você quer.
+**Backend Developer**
+
+Entrego software simples, funcional e escalável. Sem firula.
 
 ---
 
-## About me
+## Sobre
 
-- Backend-first, fullstack quando precisa
-- Gosto de resolver problema real, não inventar moda
-- Prefiro monólito bem feito a microserviço prematuro
+- Backend-first, fullstack quando necessário
+- Foco em resolver problema real
+- Monólito bem feito > microserviço prematuro
 
 ---
 
@@ -16,9 +18,14 @@ Desenvolvedor backend focado em entregar o que você quer.
 
 ### Backend
 
-- Node.js (Fastify + TS) ou (NestJs + TS)
+- Node.js (Fastify + TypeScript | NestJS)
 - PHP (Laravel)
-- Java (SpringBoot)
+- Java (Spring Boot)
+
+#### Frontend
+
+-ReactJS, NextJS (TypeScript)
+-VueJS (TypeScript)
 
 ### Banco de Dados
 
@@ -29,25 +36,15 @@ Desenvolvedor backend focado em entregar o que você quer.
 ### Outros
 
 - Docker
-- Git / GitHub
+- Git
+- GitHub
 
 ---
 
-### Regras claras:
-
-- **Controller**: entrada/saída HTTP
-- **Service**: regra de negócio
-- **Repository**: acesso a dados
-- **Validação antes da regra**
-
----
-
-## Padrões
+## Princípios
 
 - CRUD primeiro, abstração depois
 - KISS > overengineering
 - Código simples > código "genial"
 
 ---
-
-## Contato
