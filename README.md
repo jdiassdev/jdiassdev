@@ -18,21 +18,21 @@
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### 💻 Engenharia focada em Backend
+### 💻 Desenvolvedor Backend
 
-🚀 Especialista em construir **APIs prontas para produção**, bancos de dados otimizados e sistemas escaláveis  
-🛠️ Forte domínio de **Node.js (Fastify, NestJS)**, **Laravel** e **Spring Boot**  
-🗃️ Arquitetura avançada de **bancos SQL e NoSQL**, com foco em performance  
-☁️ Experiência com **AWS**, **Docker** e práticas modernas de DevOps  
-🎯 Filosofia **monólito primeiro** — arquiteturas simples e sustentáveis antes de microsserviços
+-> Focado em construir **APIs**, querys de bancos de dados otimizados e sistemas escaláveis  
+-> Forte domínio de **Node.js (Fastify, NestJS)**, **Laravel** e **Spring Boot**  
+-> Arquitetura avançada de **bancos SQL e NoSQL**, com foco em performance  
+-> Experiência com **Docker** e práticas modernas de DevOps  
+-> Filosofia monólito primeiro — sistemas iniciam como monólitos modulares, bem definidos por domínio e preparados para escalar. Microsserviços entram apenas quando métricas reais tornam a complexidade justificável.
 
 ### 🌟 Pontos fortes profissionais
 
-🤝 Colaborativo, com mentalidade ágil e experiência em times multidisciplinares  
-🐛 Especialista em debug — resolução rápida de problemas complexos de backend  
-📡 Desenvolvimento de **APIs de alta performance**, com arquitetura limpa e documentação clara  
-📂 Defensor da qualidade de código — foco em **arquitetura escalável**, testes automatizados e **CI/CD**  
-🗣️ Comunicação clara entre áreas técnicas e de negócio
+-> Colaborativo, com mentalidade ágil e experiência em times multidisciplinares  
+-> Especialista em debug — resolução rápida de problemas complexos de backend  
+-> Desenvolvimento de **APIs de alta performance**, com arquitetura limpa e documentação clara  
+-> Defensor da qualidade de código — foco em **arquitetura escalável** e **CI/CD**  
+-> Comunicação clara entre áreas técnicas e de negócio
 
 ### 💡 Princípios de engenharia
 
@@ -43,6 +43,7 @@ const principios = {
   qualidade: "Manutenibilidade > código esperto",
   abordagem: "Resolver problemas reais, não criar complexidade"
 }
+
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Stack Tecnológica
 🚀 Stack Principal
