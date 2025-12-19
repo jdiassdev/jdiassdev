@@ -41,6 +41,7 @@ const principios = {
   qualidade: "Manutenibilidade > código esperto",
   abordagem: "Resolver problemas reais, não criar complexidade",
 };
+ ```
 
 🧰 Stack Tecnológica
 🚀 Stack Principal
@@ -75,4 +76,4 @@ ORMs: Prisma • Drizzle • Eloquent • Hibernate
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdiassdev&theme=dark&show_icons=true&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdiassdev&layout=compact&theme=dark&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdiassdev&theme=dark&hide_border=true" /> </div>
 🤝 Vamos nos conectar
 <p align="center"> <a href="https://www.linkedin.com/in/codebydias/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp;&nbsp; <a href="mailto:jotavaresvictor@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> &nbsp;&nbsp; <a href="https://github.com/jdiassdev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jdiassdev&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" /> </p>
-<p align="center"> <i>"Sic Parvis Magna" — A grandeza vem de pequenos começos</i> </p> ```
+<p align="center"> <i>"Sic Parvis Magna" — A grandeza vem de pequenos começos</i> </p>
