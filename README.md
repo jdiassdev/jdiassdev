@@ -1,50 +1,45 @@
-# João Dias
+# João Victor Dias
 
 **Backend Developer**
-
-Entrego software simples, funcional e escalável. Sem firula.
+PHP • Java • Node.js
+Laravel • Spring Boot • NestJS • Fastify
 
 ---
 
 ## Sobre
 
-- Backend-first, fullstack quando necessário
-- Foco em resolver problema real
-- Monólito bem feito > microserviço prematuro
+Backend-first, fullstack quando necessário.
+Foco em resolver problemas reais com **arquitetura simples, sustentável e escalável**.
+Monólito bem feito antes de qualquer microserviço.
 
 ---
 
-## Stack
+## Stack Principal
 
-### Backend
+**Backend**
 
-- Node.js (Fastify + TypeScript | NestJS)
-- PHP (Laravel)
-- Java (Spring Boot)
+* Node.js (Fastify, NestJS) — TypeScript
+* PHP (Laravel)
+* Java (Spring Boot)
 
-#### Frontend
+**Frontend**
 
--ReactJS, NextJS (TypeScript)
--VueJS (TypeScript)
+* React / Next.js (TypeScript)
+* Vue.js (TypeScript)
 
-### Banco de Dados
+**Banco de Dados**
 
-- PostgreSQL
-- MySQL
-- MongoDB
+* PostgreSQL, MySQL, MongoDB
 
-### Outros
+**Outros**
 
-- Docker
-- Git
-- GitHub
+* Docker
+* Git / GitHub
 
 ---
 
 ## Princípios
 
-- CRUD primeiro, abstração depois
-- KISS > overengineering
-- Código simples > código "genial"
-
----
+* CRUD antes de abstrações
+* KISS > overengineering
+* Clareza e manutenção acima de “código genial”
