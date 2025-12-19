@@ -43,6 +43,7 @@ const principios = {
   qualidade: "Manutenibilidade > código esperto",
   abordagem: "Resolver problemas reais, não criar complexidade"
 }
+```
 
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Stack Tecnológica
