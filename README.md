@@ -72,7 +72,7 @@ const principios = {
 
 
 ### 📊 Estatísticas do GitHub
-<div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jdiassdev&theme=dark&show_icons=true&hide_border=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdiassdev&layout=compact&theme=dark&hide_border=true"/> </div> <div align="center"> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jdiassdev&theme=dark&hide_border=true"/> </div>
+<div align="center"> <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdiassdev&layout=compact&theme=dark&hide_border=true"/> </div> <div align="center"> </div>
 
 ### 🤝 Vamos nos conectar
 <p align="center"> <a href="https://www.linkedin.com/in/codebydias/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="mailto:jotavaresvictor@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/jdiassdev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jdiassdev&color=blueviolet&style=flat&label=Profile+Views"/> </p> <p align="center"> <i>“Sic Parvis Magna” — a grandeza nasce de pequenos começos</i> </p>
