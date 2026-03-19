@@ -1,78 +1,44 @@
-<h1 align="center">
-  Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou o João Victor Dias
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=João+Victor+Dias;Backend+Engineer;Software+Architecture" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=520&lines=Desenvolvedor+Backend;Server-Side+%7C+Arquitetura+de+APIs;NestJS+%7C+Laravel+%7C+Spring+Boot;Microsserviços+%26+Sistemas+Escaláveis;Sic+Parvis+Magna" />
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-<img width="42%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-### 💻 Desenvolvedor Backend
-
-- 🚀 Focado em construir **APIs**, queries de banco de dados otimizadas e sistemas escaláveis  
-- 🛠️ Forte domínio de **Node.js (Fastify, NestJS)**, **Laravel** e **Spring Boot**  
-- 🗃️ Arquitetura avançada de **bancos SQL e NoSQL**, com foco em performance  
-- 🐳 Experiência com **Docker** e práticas modernas de DevOps  
-- 🎯 **Filosofia monólito primeiro** — sistemas iniciam como monólitos modulares, bem definidos por domínio e preparados para escalar. Microsserviços entram apenas quando métricas reais tornam a complexidade justificável.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/codebydias/"><b>LinkedIn</b></a> • 
+    <a href="mailto:jotavaresvictor@gmail.com"><b>Email</b></a> • 
+    <a href="https://github.com/jdiassdev"><b>GitHub</b></a>
+  </p>
+</div>
 
 ---
 
-### 🌟 Pontos fortes profissionais
+<br>
 
-- 🤝 Colaborativo, com mentalidade ágil e experiência em times multidisciplinares  
-- 🐛 Especialista em debug — resolução rápida de problemas complexos de backend  
-- 📡 Desenvolvimento de **APIs de alta performance**, com arquitetura limpa e documentação clara  
-- 📂 Defensor da qualidade de código — foco em **arquitetura escalável** e **CI/CD**  
-- 🗣️ Comunicação clara entre áreas técnicas e de negócio  
+### Perfil Profissional
 
----
+Engenheiro Back-end focado na construção de sistemas escaláveis e arquitetura de APIs robustas. Minha filosofia de desenvolvimento prioriza a simplicidade, manutenibilidade e a introdução de complexidade apenas quando justificada por requisitos técnicos claros.
 
-### 💡 Princípios de engenharia
+### Áreas de Foco
 
-```ts
-const principios = {
-  codigo: "KISS > overengineering",
-  arquitetura: "CRUD antes de abstrações",
-  qualidade: "Manutenibilidade > código esperto",
-  abordagem: "Resolver problemas reais, não criar complexidade",
-};
- ```
+* **Especialidade:** Ecossistemas PHP (Laravel) e TypeScript (NestJS).
+* **Filosofia:** Defensor de Monólitos Modulares e padrões de Clean Architecture.
+* **Infraestrutura:** Sólida experiência com Docker e ambientes Linux.
 
-### 🧰 Stack Tecnológica
+<br>
 
-<p> <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,docker,mysql&theme=dark" /> </p>
+### Stack Técnica
 
-### 💻 Linguagens de Programação 
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | TypeScript, PHP, Java, Python, SQL |
+| **Frameworks** | NestJS, Laravel, Spring Boot, FastAPI |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Ferramentas** | Docker, Git, CI/CD, AWS (Core Services) |
 
-<p> <img src="https://skillicons.dev/icons?i=js,ts,php,java,python&theme=dark" /> </p>
+<br>
 
-### 🧩 Frameworks
-<p> <img src="https://skillicons.dev/icons?i=nestjs,laravel,spring&theme=dark" /> </p>
+### Filosofia de Engenharia
 
-### 📦 Bancos de Dados & ORMs
-<p> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /> </p>
+> *"Sic Parvis Magna"* — A grandeza nasce de pequenos começos.
 
+Meus princípios de desenvolvimento são guiados por quatro pilares fundamentais: priorizar a simplicidade (**KISS**) sobre a engenharia excessiva; focar na entrega de valor com soluções baseadas em **CRUD** antes de abstrações prematuras; garantir a qualidade através de códigos feitos para qualquer um ler; e escalar a infraestrutura com base em **métricas reais**.
 
-#### ORMs: + Drizzle, Eloquent, Hibernate, Prisma
-
-### 🎨Frontend (quando necessário)
-
-<p> <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind&theme=dark" /> </p>
-
-### ☁️ DevOps & Infraestrutura
-<p> <img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" /> </p>
-
-### 🧠 Estudando atualmente
-<p> <img src="https://skillicons.dev/icons?i=kubernetes,aws,redis&theme=dark" /> </p>
-
-
-### 📊 Estatísticas do GitHub
-<div align="center"> <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdiassdev&layout=compact&theme=dark&hide_border=true"/> </div> <div align="center"> </div>
-
-### 🤝 Vamos nos conectar
-<p align="center"> <a href="https://www.linkedin.com/in/codebydias/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="mailto:jotavaresvictor@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/jdiassdev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jdiassdev&color=blueviolet&style=flat&label=Profile+Views"/> </p> <p align="center"> <i>“Sic Parvis Magna” — a grandeza nasce de pequenos começos</i> </p>
+<br>
