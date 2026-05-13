@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 <p align="right">
   <a href="README.pt-br.md">
     <img src="https://img.shields.io/badge/lang-PT--BR-333333?style=flat&logo=googletranslate&logoColor=white" />
   </a>
 </p>
-=======
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=João+Victor+Dias;Backend+Engineer;Software+Architecture" alt="Typing SVG" />
 
@@ -14,11 +13,9 @@
     <a href="https://github.com/jdiassdev"><b>GitHub</b></a>
   </p>
 </div>
->>>>>>> f8d8d72875932963db2e0199fb0edbf08e06fd6f
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm João Victor Dias</h1>
 
-<<<<<<< HEAD
 <p align="center">
   <a href="https://jdiassdev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 My Portfolio-000000?style=for-the-badge" />
@@ -74,7 +71,7 @@
 
 **🧠 Currently Learning**
 <br/><img src="https://skillicons.dev/icons?i=kubernetes,aws&theme=dark" />
-=======
+
 <br>
 
 ### Perfil Profissional
@@ -82,13 +79,11 @@
 Engenheiro Back-end focado na construção de sistemas escaláveis e arquitetura de APIs robustas. Minha filosofia de desenvolvimento prioriza a simplicidade, manutenibilidade e a introdução de complexidade apenas quando justificada por requisitos técnicos claros.
 
 ### Áreas de Foco
->>>>>>> f8d8d72875932963db2e0199fb0edbf08e06fd6f
 
-* **Especialidade:** Ecossistemas PHP (Laravel) e TypeScript (NestJS).
-* **Filosofia:** Defensor de Monólitos Modulares e padrões de Clean Architecture.
-* **Infraestrutura:** Sólida experiência com Docker e ambientes Linux.
+- **Especialidade:** Ecossistemas PHP (Laravel) e TypeScript (NestJS).
+- **Filosofia:** Defensor de Monólitos Modulares e padrões de Clean Architecture.
+- **Infraestrutura:** Sólida experiência com Docker e ambientes Linux.
 
-<<<<<<< HEAD
 ## 🚀 Featured Projects
 
 **📦 [laravel-types-gen](https://github.com/jdiassdev/laravel-types-gen)**
@@ -99,7 +94,7 @@ Engenheiro Back-end focado na construção de sistemas escaláveis e arquitetura
 &nbsp;`Java` `Spring Boot` `Vue.js`
 <br/>Full-stack personal finance management app built with Spring Boot and Vue.js.
 
-**🏠 [Casa Amarela](https://casaamarela-six.vercel.app/) — *live in production***
+**🏠 [Casa Amarela](https://casaamarela-six.vercel.app/) — _live in production_**
 &nbsp;`Landing Page` `Vercel`
 <br/>Real lead capture landing page for house rental in Ilha de Cotijuba, PA, Brazil.
 
@@ -110,20 +105,18 @@ Engenheiro Back-end focado na construção de sistemas escaláveis e arquitetura
 **🎵 [Lyripy](https://github.com/jdiassdev/lyripy)**
 &nbsp;`Python` `CLI` `Spotify`
 <br/>Python script that fetches and displays synchronized lyrics (.lrc) in the terminal as real-time Spotify captions.
-=======
+
 <br>
 
 ### Stack Técnica
->>>>>>> f8d8d72875932963db2e0199fb0edbf08e06fd6f
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | TypeScript, PHP, Java, Python, SQL |
-| **Frameworks** | NestJS, Laravel, Spring Boot, FastAPI |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| Categoria       | Tecnologias                             |
+| :-------------- | :-------------------------------------- |
+| **Linguagens**  | TypeScript, PHP, Java, Python, SQL      |
+| **Frameworks**  | NestJS, Laravel, Spring Boot, FastAPI   |
+| **Databases**   | PostgreSQL, MySQL, MongoDB, Redis       |
 | **Ferramentas** | Docker, Git, CI/CD, AWS (Core Services) |
 
-<<<<<<< HEAD
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
@@ -159,14 +152,12 @@ Engenheiro Back-end focado na construção de sistemas escaláveis e arquitetura
 </p>
 
 <p align="center"><i>"Do nothing that is of no use." — Miyamoto Musashi</i></p>
-=======
 <br>
 
 ### Filosofia de Engenharia
 
-> *"Sic Parvis Magna"* — A grandeza nasce de pequenos começos.
+> _"Do nothing that is of no use." — Miyamoto Musashi.
 
 Meus princípios de desenvolvimento são guiados por quatro pilares fundamentais: priorizar a simplicidade (**KISS**) sobre a engenharia excessiva; focar na entrega de valor com soluções baseadas em **CRUD** antes de abstrações prematuras; garantir a qualidade através de códigos feitos para qualquer um ler; e escalar a infraestrutura com base em **métricas reais**.
 
 <br>
->>>>>>> f8d8d72875932963db2e0199fb0edbf08e06fd6f
