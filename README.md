@@ -34,7 +34,7 @@
 
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 
-<img width="40%" align="right" alt="Coding" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img width="35%" align="right" alt="Sanji" src="assets/sanji.png" />
 
 🚀 Backend developer specialized in **robust APIs**, optimized databases, and scalable systems.
 
