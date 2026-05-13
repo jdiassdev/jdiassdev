@@ -24,7 +24,6 @@
 
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> Sobre Mim
 
-<img width="35%" align="right" alt="Sasuke" src="assets/sasuke.png" />
 
 🚀 Desenvolvedor Backend especializado em **APIs robustas**, bancos de dados eficientes e sistemas escaláveis.
 
