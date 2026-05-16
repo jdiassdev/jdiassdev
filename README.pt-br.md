@@ -24,7 +24,6 @@
 
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> Sobre Mim
 
-
 🚀 Desenvolvedor Backend especializado em **APIs robustas**, bancos de dados eficientes e sistemas escaláveis.
 
 🛠️ Forte experiência com **Node.js (Fastify, NestJS)**, **Laravel** e **Spring Boot**.
@@ -73,7 +72,7 @@
 &nbsp;`Java` `Spring Boot` `Vue.js`
 <br/>Aplicação full-stack de gestão financeira pessoal construída com Spring Boot e Vue.js.
 
-**🏠 [Casa Amarela](https://casaamarela-six.vercel.app/) — *em produção***
+**🏠 [Casa Amarela](https://casaamarela-six.vercel.app/) — _em produção_**
 &nbsp;`Landing Page` `Vercel`
 <br/>Landing page real de captação de leads para aluguel na Ilha de Cotijuba, PA.
 
@@ -90,9 +89,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jdiassdev&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdiassdev&layout=compact&theme=dark&hide_border=true&langs_count=6&locale=pt-br" />
+
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jdiassdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdiassdev&layout=donut&theme=dark&include_all_commits=true" alt="Top Langs" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jdiassdev&theme=dark&hide_border=true&locale=pt_BR" />
 </div>

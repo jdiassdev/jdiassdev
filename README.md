@@ -34,7 +34,6 @@
 
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 
-
 🚀 Backend developer specialized in **robust APIs**, optimized databases, and scalable systems.
 
 🛠️ Strong experience with **Node.js (Fastify, NestJS)**, **Laravel** and **Spring Boot**.
@@ -119,17 +118,15 @@ Engenheiro Back-end focado na construção de sistemas escaláveis e arquitetura
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jdiassdev&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdiassdev&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</div>
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jdiassdev&theme=dark&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jdiassdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdiassdev&layout=donut&theme=dark&include_all_commits=true" alt="Top Langs" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -155,7 +152,7 @@ Engenheiro Back-end focado na construção de sistemas escaláveis e arquitetura
 
 ### Filosofia de Engenharia
 
-> _"Do nothing that is of no use." — Miyamoto Musashi.
+> \_"Do nothing that is of no use." — Miyamoto Musashi.
 
 Meus princípios de desenvolvimento são guiados por quatro pilares fundamentais: priorizar a simplicidade (**KISS**) sobre a engenharia excessiva; focar na entrega de valor com soluções baseadas em **CRUD** antes de abstrações prematuras; garantir a qualidade através de códigos feitos para qualquer um ler; e escalar a infraestrutura com base em **métricas reais**.
 
